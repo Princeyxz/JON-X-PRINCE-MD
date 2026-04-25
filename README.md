@@ -1,8 +1,8 @@
 <h1 align="center">
 
-<img width="500" src="https://dafunda.com/wp-content/uploads/2021/01/Karakter-Hunter-x-Hunter-Yang-Kuat-Menurut-Hisoka.jpg">
+<img width="500" src="https://files.catbox.moe/d3iu02.jpg">
 
-<br> Hisoka Bot
+<br> JON-X-PRINCE-MD
  
  > This script is run using the whatsapp-web.js library and uses puppeteer
  
