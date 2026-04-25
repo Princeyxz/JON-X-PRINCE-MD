@@ -1,12 +1,12 @@
 <h1 align="center">
 
-<img width="500" src="https://files.catbox.moe/d3iu02.jpg">
+<img width="500" src="https://files.catbox.moe/fxm887.jpg">
 
 <br> JON-X-PRINCE-MD
  
  > This script is run using the whatsapp-web.js library and uses puppeteer
  
- it is strictly forbidden to perform spam actions when using this script 
+ We stop at nothing, we are the definition of fear. 
 
 ### Give A Star
 
