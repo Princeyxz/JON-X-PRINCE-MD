@@ -1,0 +1,20 @@
+users": {
+    "50948038775@c.us": {
+      "limit": 25,
+      "lastChat": 50948038775,
+      "premium": true,
+      "VIP": true,
+      "registered": false,
+      "name": "Hisoka",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    }
+  },
+  "groups": {
+    "50948038775-509480387758@g.us": {
+      "lastChat": 50948038775,
+      "mute": false
+    }
+  }
+}
